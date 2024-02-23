@@ -1,2 +1,2 @@
-# Receipe
+# Recipe
 omleta
